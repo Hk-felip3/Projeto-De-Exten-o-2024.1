@@ -4,11 +4,11 @@ Faculdade Ideal - Faci Wyden BELÉM-PARÁ
 
 Curso - Ciencia Computação 2024.1;
 
-Coordenador - Dr. Alexandre Freitas;
+Coordenador - Iranildo Ramos;
 
-Materia- Topicos de BIG DATA EM Python;
+Materia- Aplic. de Cloud, Iot e Indústria 4.0 em Python;
 
-Professor - Mr. Rosevaldo Junior ;
+Professor - Anderson Goes ;
 
 Data - 25/06/2024
 
