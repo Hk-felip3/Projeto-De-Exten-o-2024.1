@@ -16,11 +16,11 @@ Tema  - Conectando Treinadores e Clientes: Desenvolvimento de Aplicativo para Fa
 
 Integrantes ;
 
-          Arthur Eli Passos Penna Melo;
+          Pedro Henrrique Ipiranga araujo ;
 
-          isaac Rodrigo da Silva Costa;
+          Luiz Carlos Moraes Dos Santos;
           
-          José de Barros da Rocha Neto;
+          Felipe De Resende Ferreira;
           
           Luiz Kauan Rosa de Alcantara;
           
